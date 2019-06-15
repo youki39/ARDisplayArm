@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/Motor1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Motor3.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/Motor2.unity
+  isLoaded: 1
+  isActive: 0
